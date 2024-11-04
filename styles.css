@@ -1,9 +1,0 @@
-#myElement {
-    width: 200px;
-    height: 1000;
-    border: 8px solid hwb(55 13% 0%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: aqua;
-}
